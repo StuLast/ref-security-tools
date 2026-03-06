@@ -1,0 +1,8 @@
+{
+    "vscode": {
+        "definitions": [
+            {"name": "extenshun", "version": "0.1.0"},
+            {"name": "ms-python.python", "version": "2026.2.0"}
+        ]
+    }
+}
